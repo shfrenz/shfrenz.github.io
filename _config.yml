@@ -12,8 +12,8 @@ title                    : "Shoufeng Zhang"
 title_separator          : "-"
 name                     : &name "Shoufeng Zhang"
 description              : &description "High School Student"
-url                      : https://shfrenz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://shawnzsf.github.io" # the subpath of your site, e.g. "/blog"
+url                      : "https://shfrenz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "shfrenz/shfrenz.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
