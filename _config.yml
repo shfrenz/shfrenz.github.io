@@ -11,17 +11,10 @@ locale                   : "en-US"
 title                    : "Shoufeng Zhang"
 title_separator          : "-"
 name                     : &name "Shoufeng Zhang"
-<<<<<<< HEAD
 description              : &description "Hight School Student at Beijing 101 High School"
 url                      : https://shfrenz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shfrenz.github.io"
-=======
-description              : &description "High School Student"
-url                      : "https://shfrenz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
-repository               : "shfrenz/shfrenz.github.io"
->>>>>>> 062ea8f47a7ffd16a3ca55809c79c726d9abd014
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,21 +22,12 @@ repository               : "shfrenz/shfrenz.github.io"
 author:
   # Biographic information
   avatar           : "llx.png"
-<<<<<<< HEAD
   name             : "Shoufeng Zhang"
   pronouns         : # example: "she/her"  
   bio              : "High School Student, Hardware Design/Optimization interested. "
   location         : "Beijing, China"
   employer         : "Beijing 101 High School"
   uri              : # URL
-=======
-  name             : "Shoufeng Zhang (张寿峰)"
-  pronouns         : "he/him"  
-  bio              : "High School Student"
-  location         : "Beijing, China"
-  employer         : "Beijing 101 High School"
-  uri              : "https://shawnzsf.github.io"
->>>>>>> 062ea8f47a7ffd16a3ca55809c79c726d9abd014
   email            : "zhangshoufeng2077@outlook.com" 
 
   # Academic websites
