@@ -1,0 +1,21 @@
+#posts ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#posts li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+#posts a {
+    text-decoration: none;
+    color: #000;
+}
+
+#posts a:hover {
+    text-decoration: underline;
+} 
